@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<executable>
+  <category></category>
+  <title>QtIcon</title>
+  <description>
+    Test to check how to use icons/Qt/resources/libraries
+  </description>
+  <version>0.1</version>
+  <license></license>
+  <contributor>Francois Budin</contributor>
+  <parameters>
+  </parameters>
+</executable>
